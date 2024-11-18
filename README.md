@@ -27,6 +27,10 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Сайт
+
+Сайт доступен по адресу https://api.dev.stason5111.ru/
+
 ## Контакты
 
 Для связи с автором писать на почту stason5111@mail.ru
